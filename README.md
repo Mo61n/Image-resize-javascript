@@ -34,7 +34,6 @@
 ### Fork the repository
 ### Create a new branch for your changes
 ### Make your changes and commit them with descriptive commit messages
-### Push your changes to your fork of the repository
 
 # Codepen :
 https://codepen.io/Mo61n/pen/BaOGMNx
